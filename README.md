@@ -1,4 +1,4 @@
-# noVNC Display Container for Heroku
+# No VNC Display Container for Heroku
 ```
 ```
 This image is intended to be used for displaying X11 applications from other containers in a browser. A stand-alone demo as well as a [Version 2](https://docs.docker.com/compose/compose-file/#version-2) composition.
